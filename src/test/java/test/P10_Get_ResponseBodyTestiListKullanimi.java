@@ -31,7 +31,7 @@ public class P10_Get_ResponseBodyTestiListKullanimi {
         // 2 - Expected Data
 
 
-        // 3 - Ressponse'i kaydet
+        // 3 - Response'i kaydet
 
         Response response = given().when().get(url);
 

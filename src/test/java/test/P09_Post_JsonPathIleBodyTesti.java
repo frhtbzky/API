@@ -89,7 +89,7 @@ public class P09_Post_JsonPathIleBodyTesti {
 
         COK ONEMLİ :
 
-        BEN REQUEST BODY GIRDIGIMDE, konsol uzerinden bana DONEN RESPONS'DA booking
+        BEN REQUEST BODY GIRDIGIMDE, konsol uzerinden bana DONEN RESPONS'Da "booking"
         icinde oldugu icin body icindeki elemanlara ulasmak icin booking.firstname
         seklinde kullanmak zorundayim.
 
